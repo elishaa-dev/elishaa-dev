@@ -24,7 +24,6 @@ Pinned repositories below showcase Shopify sections, custom storefront designs, 
 - 🌐 Portfolio: *(new site coming soon)*
 - 💼 LinkedIn: https://www.linkedin.com/in/elishaa-dev
 - 📧 Email: elishaa.work@gmail.com
-- U
 - 💬 Available for Shopify projects on Upwork and direct contracts
 
 ---
