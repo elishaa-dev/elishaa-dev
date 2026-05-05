@@ -2,7 +2,7 @@
 
 I build custom Shopify themes for DTC and ecommerce brands.
 
-Frontend developer with 3+ years of experience, specialized in Shopify theme customization — Liquid, sections, and pixel-perfect design implementation. I started in React and Tailwind, which means I bring a strong frontend foundation to every Shopify build: clean code, responsive layouts, and an eye for design that most Liquid developers don't have.
+Frontend developer with 5+ years of experience, specialized in Shopify theme customization — Liquid, sections, and pixel-perfect design implementation. I started in React and Tailwind, which means I bring a strong frontend foundation to every Shopify build: clean code, responsive layouts, and an eye for design that most Liquid developers don't have.
 
 #### What I do
 
