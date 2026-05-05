@@ -1,29 +1,32 @@
-👋 Hello, I'm Oluwasanjo Elisha Adeniyi.
+### Hi, I'm Elisha 👋
 
-🚀 I'm deeply passionate about Software Engineering and Full Stack Development.
+I build custom Shopify themes for DTC and ecommerce brands.
 
-🌱 My journey involves continuous learning in full-stack web development, front-end frameworks, back-end technologies, and cloud computing.
+Frontend developer with 3+ years of experience, specialized in Shopify theme customization — Liquid, sections, and pixel-perfect design implementation. I started in React and Tailwind, which means I bring a strong frontend foundation to every Shopify build: clean code, responsive layouts, and an eye for design that most Liquid developers don't have.
 
-💡 I'm enthusiastic about collaborating on web application development, software architecture, and crafting seamless user experiences.
+#### What I do
 
-📫 Let's connect:
-   - Email: [Elishaa.work@gmail.com](mailto:elishaa.work@gmail.com)
+- **Custom Shopify theme development** — Liquid, JSON templates, sections, and snippets
+- **Theme customization & redesigns** — turning Figma designs into production-ready stores
+- **Performance & UX improvements** — speed, accessibility, conversion-focused frontend
+- **Shopify admin & basic app work** — metafields, custom apps, Shopify APIs
 
-Let's create amazing software together! 💻🌐👨‍💻
+#### Tech stack
 
-<!--
-**Sanjoclinton/Sanjoclinton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Shopify (Liquid, Sections, Online Store 2.0) · JavaScript · Tailwind CSS · Bootstrap · React · HTML/CSS · Git
 
-Here are some ideas to get you started:
+#### Featured Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Pinned repositories below showcase Shopify sections, custom storefront designs, and admin tooling. Most of my client work is under NDA — happy to walk through it on a call.
 
+#### Let's work together
 
+- 🌐 Portfolio: *(new site coming soon)*
+- 💼 LinkedIn: https://www.linkedin.com/in/elishaa-dev
+- 📧 Email: elishaa.work@gmail.com
+- U
+- 💬 Available for Shopify projects on Upwork and direct contracts
+
+---
+
+*Currently building: a public Shopify section library and theme starter — pinned soon.*
